@@ -3,7 +3,6 @@
 ## Overview
 This document demonstrates SOLID Principles through a Food Order Service example.
 
-## Features Implemented
 The Food Order Service includes the following functionality:
 - Select menu items and add them to the cart
 - Calculate the total price
